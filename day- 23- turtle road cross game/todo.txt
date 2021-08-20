@@ -1,0 +1,5 @@
+---- Move turtle i.e. player with keypress
+---- Create and move cars
+---- Detect collision with car
+---- Detect when turtle reaches other side
+---- Create scoreboard
